@@ -1,0 +1,20 @@
+body {
+    font-family:cursive ;
+}
+h1{
+    text-align:center;
+    background-color: lightyellow;
+    border: 10px double black;
+}
+
+body footer{
+    background-color: lightyellow;
+    text-align: center;
+}
+
+a{
+    
+    color:black;
+    border: 10px double black;
+    text-decoration: none;
+}
